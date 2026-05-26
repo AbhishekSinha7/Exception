@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date when the legal document (like a series of debentures) that created the charge was issued. --></help>
+    <label><!-- Covering Instrument Date --></label>
+    <name>crms14__Covering_Instrument_Date__c</name>
+</CustomFieldTranslation>

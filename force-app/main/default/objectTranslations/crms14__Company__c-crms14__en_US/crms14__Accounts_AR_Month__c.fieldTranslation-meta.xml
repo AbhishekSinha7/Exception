@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The Accounting Reference Date (ARD) month. --></help>
+    <label><!-- Accounts AR Month --></label>
+    <name>crms14__Accounts_AR_Month__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date that Accounts are next due, as provided by Companies House. --></help>
+    <label><!-- Accounts Next Due On --></label>
+    <name>crms14__Accounts_Next_Due_On__c</name>
+</CustomFieldTranslation>

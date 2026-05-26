@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Accounts are overdue, as provided by Companies House --></help>
+    <label><!-- Accounts Overdue --></label>
+    <name>crms14__Accounts_Overdue__c</name>
+</CustomFieldTranslation>

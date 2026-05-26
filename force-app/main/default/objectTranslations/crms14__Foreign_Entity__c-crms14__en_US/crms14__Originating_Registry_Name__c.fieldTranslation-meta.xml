@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Identity of register in the country of incorporation. --></help>
+    <label><!-- Originating Registry Name --></label>
+    <name>crms14__Originating_Registry_Name__c</name>
+</CustomFieldTranslation>

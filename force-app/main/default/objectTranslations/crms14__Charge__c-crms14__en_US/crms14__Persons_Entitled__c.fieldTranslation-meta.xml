@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Individuals or entities legally entitled to benefit from the charge. --></help>
+    <label><!-- Persons Entitled --></label>
+    <name>crms14__Persons_Entitled__c</name>
+</CustomFieldTranslation>

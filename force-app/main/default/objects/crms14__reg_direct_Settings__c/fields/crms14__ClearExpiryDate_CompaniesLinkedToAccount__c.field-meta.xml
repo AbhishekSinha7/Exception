@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__ClearExpiryDate_CompaniesLinkedToAccount__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <label>ClearExpiryDate_CompaniesLinkedToAccount</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

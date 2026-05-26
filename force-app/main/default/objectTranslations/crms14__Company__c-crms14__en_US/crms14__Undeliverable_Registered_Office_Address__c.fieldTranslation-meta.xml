@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This indicates whether post can be delivered to the registered office. --></help>
+    <label><!-- Undeliverable Registered Office Address --></label>
+    <name>crms14__Undeliverable_Registered_Office_Address__c</name>
+</CustomFieldTranslation>

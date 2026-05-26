@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The Anti-Money Laundering supervisory bodies that the authorised corporate service provider was registered with when verifying the officer. --></help>
+    <label><!-- Anti Money Laundering Supervisory Bodies --></label>
+    <name>crms14__Anti_Money_Laundering_Supervisory_Bodies__c</name>
+</CustomFieldTranslation>

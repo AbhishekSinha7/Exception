@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Registration_Number__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The registration number of the organisation</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The registration number of the organisation</inlineHelpText>
+    <label>Registration Number</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Persons_Entitled__c</fullName>
+    <deprecated>false</deprecated>
+    <description>People that are entitled to the charge</description>
+    <inlineHelpText>Individuals or entities legally entitled to benefit from the charge.</inlineHelpText>
+    <label>Persons Entitled</label>
+    <length>131072</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>5</visibleLines>
+</CustomField>

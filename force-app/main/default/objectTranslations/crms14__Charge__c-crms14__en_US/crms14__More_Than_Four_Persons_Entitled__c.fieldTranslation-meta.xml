@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates whether more than four individuals are entitled under this charge. --></help>
+    <label><!-- More Than Four Persons Entitled --></label>
+    <name>crms14__More_Than_Four_Persons_Entitled__c</name>
+</CustomFieldTranslation>

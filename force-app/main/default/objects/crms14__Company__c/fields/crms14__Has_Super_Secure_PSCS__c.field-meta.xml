@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Has_Super_Secure_PSCS__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <inlineHelpText>It indicates whether a company has super-secure Persons with Significant Control (PSCs). 
+Super-secure PSCs are individuals who have significant control over a company and whose details are protected for security reasons.</inlineHelpText>
+    <label>Has Super Secure PSCs</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

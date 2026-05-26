@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Particulars_Chargor_Acting_as_Bare_Trust__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>The chargor is acting as a bare trustee for the property</description>
+    <inlineHelpText>Indicates whether the person creating the charge is acting only as a trustee.</inlineHelpText>
+    <label>Particulars Chargor Acting as Bare Trust</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- It indicates whether a company has super-secure Persons with Significant Control (PSCs). 
+Super-secure PSCs are individuals who have significant control over a company and whose details are protected for security reasons. -->
+    </help>
+    <label><!-- Has Super Secure PSCs --></label>
+    <name>crms14__Has_Super_Secure_PSCS__c</name>
+</CustomFieldTranslation>

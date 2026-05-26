@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Manual_Upload__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This checkbox field is used in the CompanyInfoSyncQueueable class when the &quot;Sync All Companies&quot; button is triggered. Records selected for processing in this class are identified by this field being checked. After processing, the ResetCompanyUpdateFlagBatch class unchecks this field to reset its state.</description>
+    <label>Manual Upload</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Charge_Compact_Layout</fullName>
+    <fields>Name</fields>
+    <fields>crms14__Created_on__c</fields>
+    <fields>crms14__Delivered_on__c</fields>
+    <fields>crms14__Status__c</fields>
+    <label>Charge Compact Layout</label>
+</CompactLayout>

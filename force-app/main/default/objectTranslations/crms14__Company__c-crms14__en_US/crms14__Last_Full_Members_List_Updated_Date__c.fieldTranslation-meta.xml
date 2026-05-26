@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Last Full Members List Updated Date --></label>
+    <name>crms14__Last_Full_Members_List_Updated_Date__c</name>
+</CustomFieldTranslation>

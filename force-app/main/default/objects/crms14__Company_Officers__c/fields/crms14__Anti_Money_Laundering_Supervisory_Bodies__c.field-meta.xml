@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Anti_Money_Laundering_Supervisory_Bodies__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The Anti-Money Laundering supervisory bodies that the authorised corporate service provider was registered with when verifying the officer.</description>
+    <inlineHelpText>The Anti-Money Laundering supervisory bodies that the authorised corporate service provider was registered with when verifying the officer.</inlineHelpText>
+    <label>Anti Money Laundering Supervisory Bodies</label>
+    <length>32768</length>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

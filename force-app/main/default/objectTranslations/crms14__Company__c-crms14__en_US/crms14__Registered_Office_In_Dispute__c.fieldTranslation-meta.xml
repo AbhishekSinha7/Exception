@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Denotes whether the registered office is in dispute, as provided by Companies House. --></help>
+    <label><!-- Registered Office in Dispute --></label>
+    <name>crms14__Registered_Office_In_Dispute__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Parent company name. (BC: Branch Company) --></help>
+    <label><!-- BC Parent Company Name --></label>
+    <name>crms14__BC_Parent_Company_Name__c</name>
+</CustomFieldTranslation>

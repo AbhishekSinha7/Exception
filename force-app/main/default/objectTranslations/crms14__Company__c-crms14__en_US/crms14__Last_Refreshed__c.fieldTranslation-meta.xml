@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date/time that the Companies House data on this record was last refreshed. --></help>
+    <label><!-- Last Refreshed --></label>
+    <name>crms14__Last_Refreshed__c</name>
+</CustomFieldTranslation>

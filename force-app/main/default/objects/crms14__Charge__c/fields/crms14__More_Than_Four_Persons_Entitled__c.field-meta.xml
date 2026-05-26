@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__More_Than_Four_Persons_Entitled__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Charge has more than four person entitled</description>
+    <inlineHelpText>Indicates whether more than four individuals are entitled under this charge.</inlineHelpText>
+    <label>More Than Four Persons Entitled</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

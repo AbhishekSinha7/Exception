@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The date when the company acquired the property or asset related to the charge. --></help>
+    <label><!-- Acquired On --></label>
+    <name>crms14__Acquired_on__c</name>
+</CustomFieldTranslation>

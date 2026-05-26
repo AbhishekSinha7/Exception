@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This indicates whether this company can file. --></help>
+    <label><!-- Company Can File --></label>
+    <name>crms14__Company_can_file__c</name>
+</CustomFieldTranslation>

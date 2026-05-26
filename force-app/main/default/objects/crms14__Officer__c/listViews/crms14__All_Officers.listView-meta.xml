@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__All_Officers</fullName>
+    <columns>NAME</columns>
+    <columns>crms14__Person_Number__c</columns>
+    <columns>crms14__Occupation__c</columns>
+    <columns>crms14__Officer_Role__c</columns>
+    <filterScope>Mine</filterScope>
+    <label>All Officers</label>
+</ListView>

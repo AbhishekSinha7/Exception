@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>crms14__Particulars_Floating_Charge_Covers_All__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>The floating charge covers all the property or undertaking or the company</description>
+    <inlineHelpText>Indicates if the floating charge covers the entire undertaking of the company.</inlineHelpText>
+    <label>Particulars Floating Charge Covers All</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

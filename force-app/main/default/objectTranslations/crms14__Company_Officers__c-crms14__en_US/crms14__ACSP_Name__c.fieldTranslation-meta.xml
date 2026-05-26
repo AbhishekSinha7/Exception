@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The name of the authorised corporate service provider that verified the identity of the officer. --></help>
+    <label><!-- ACSP Name --></label>
+    <name>crms14__ACSP_Name__c</name>
+</CustomFieldTranslation>

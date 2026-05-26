@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates if the charge has been ceased or released from obligation. --></help>
+    <label><!-- Assests Ceased Released --></label>
+    <name>crms14__Assests_Ceased_Released__c</name>
+</CustomFieldTranslation>
